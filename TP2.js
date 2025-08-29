@@ -6,7 +6,7 @@ const router = {
   modelo: "AX3000",
   marca: "TP-Link",
   puertos: 4,
-  velocidad: 3000, // Mbps
+  velocidad: 3000,
   soportaWifi: true
 };
 console.log("Ejercicio 1:", router);
